@@ -21,14 +21,16 @@ I'm passionate about building scalable web applications using Java, Spring Boot,
 
 ---
 
-## 📚 What I'm Learning
+## 💻 What I'm Learning
+
+📌 I'm currently enrolled at **Palle Technologies**, Bangalore, where I'm learning:
 
 - ☕ Java Programming  
+- 🌐 HTML5, CSS3, JavaScript  
 - 🌿 Spring Boot Framework  
-- 🌐 HTML, CSS, JavaScript  
-- 🧪 Software Testing (Manual + API)  
 - 🛢️ MySQL Database  
-- 🛠️ Tools: Git, GitHub, Postman, Eclipse
+- 🧪 Software Testing concepts (Manual & API testing)  
+- 🛠️ Tools: Postman, Eclipse, Git, GitHub
 
 ---
 
