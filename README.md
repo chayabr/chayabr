@@ -45,10 +45,12 @@ I'm passionate about building scalable web applications using Java, Spring Boot,
 
 ---
 
+
 ## 📄 My Resume
 
-📌 You can view or download my resume here:  
-👉 [**CHAYA B R – Resume (PDF)**](https://github.com/chayabr/chayabr/blob/main/CHAYA%20PALLE%20RESUME.pdf)
+📌 You can view or download my resume here:
+
+- 👉 [**CHAYA B R – Resume (GitHub)**](https://github.com/chayabr/RESUME/blob/main/CHAYA%20PALLE%20RESUME.pdf)
 
 ---
 
