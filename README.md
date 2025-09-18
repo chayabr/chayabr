@@ -7,10 +7,10 @@
 
 ## 👩‍🎓 About Me
 
-🎓 I'm currently pursuing **Information Science and Engineering (ISE)** at  
+🎓 I'm completed  **Information Science and Engineering (ISE)** at  
 **Adichunchanagiri Institute of Technology (AIT)**, Chikkamagaluru — Batch of **2025**.
 
-💻 I'm currently learning **Java Full Stack Development** at **Palle Technologies**, Bangalore.
+💻 I'm completed  **Java Full Stack Development** cource and Internship at  **Palle Technologies**, Bangalore.
 
 ---
 
@@ -23,7 +23,7 @@ I'm passionate about building scalable web applications using Java, Spring Boot,
 
 ## 💻 What I'm Learning
 
-📌 I'm currently enrolled at **Palle Technologies**, Bangalore, where I'm learning:
+📌  **Palle Technologies**, Bangalore, where I'm learning:
 
 - ☕ Java Programming  
 - 🌐 HTML5, CSS3, JavaScript  
